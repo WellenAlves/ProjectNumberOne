@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ProjectNumberOne</string>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="message">Olá Wellen!</string>
+    <string name="Button">Calcular</string>
+    <string name="Peso">Digite seu peso</string>
+    <string name="Altura">Digite sua altura</string>
+    <string name="Abaixo">MENOR QUE 18.5 - ABAIXO DO PESO</string>
+    <string name="Pesoo">ENTRE 18.5 E 24.9 - PESO NORMAL</string>
+    <string name="Obe">IGUAL OU ACIMA DE 30 - OBESIDADE</string>
+    <string name="Sobre">ENTRE 25 E 29.9 - SOBREPESO</string>
+    <string name="message_classificaçao">Classificaçao:, %1$s!</string>
+    <string name="imc">SEU IMC É?</string>
 </resources>
